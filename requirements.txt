@@ -1,0 +1,8 @@
+Django==3.2.5
+asgiref==3.4.1
+sqlparse==0.4.1
+typing_extensions==3.10.0.0
+djangorestframework_simplejwt==4.7.2
+djangorestframework==3.12.4
+PyJWT==2.1.0
+
